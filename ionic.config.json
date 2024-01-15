@@ -1,0 +1,7 @@
+{
+  "name": "lyncis-gestion-ion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
